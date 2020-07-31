@@ -1,0 +1,7 @@
+PAYTM\JAXRSConfiguration.class
+PAYTM\entity\Job.class
+PAYTM\resource\JobResource.class
+PAYTM\dao\JobDao.class
+PAYTM\business\JobBusiness.class
+PAYTM\entity\Entity.class
+PAYTM\dao\Dao.class
